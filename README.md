@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tweet Emotion Recognition: Natural Language Processing with TensorFlow
 
 
@@ -24,3 +25,6 @@ The notebook of model project is divided on parts that are :
 <br>_Enjoy predicting tweets emotions :exclamation: :v:_
 
 <br> ***By : Zakaria Mejdoul***
+=======
+# Tweet_Emotion_Recognition
+>>>>>>> 74b1ad331cc235090e94142ad37815fb93d14446
